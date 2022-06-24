@@ -1,3 +1,5 @@
 {
-    "username": "nacer"
+    "username": "nacer",
+    "location": "algeria",
+    "skills": ["html","css","jqurey"]
 }
