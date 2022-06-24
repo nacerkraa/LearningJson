@@ -1,0 +1,3 @@
+The file with .json extention
+
+the syntax start with a "{" and end with "}"
